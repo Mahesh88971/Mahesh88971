@@ -1,71 +1,45 @@
-<div align="center">
-  <img src="assets/profile-banner.svg" alt="S Mahesh Babu — Full-Stack Developer and AI Builder" width="100%" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1100&color=5EEAD4&center=true&vCenter=true&width=720&lines=Building+useful+web+experiences;Exploring+AI+and+full-stack+development;Learning+by+shipping+real+projects" alt="Animated intro: web development, AI, and building real projects" />
-  <br /><br />
-  <a href="https://mahesh88971.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20site-0d2028?style=for-the-badge&logo=githubpages&logoColor=5eead4" alt="Visit my portfolio" /></a>
-  <a href="https://linkedin.com/in/mahesh-babu-sanka"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-17172b?style=for-the-badge&logo=linkedin&logoColor=818cf8" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Mahesh88971?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-Explore%20my%20work-14251f?style=for-the-badge&logo=github&logoColor=5eead4" alt="Explore my GitHub repositories" /></a>
-</div>
+<a href="https://mahesh88971.github.io/Portfolio/"><img src="assets/hero-mahesh.svg" width="100%" alt="S Mahesh Babu — B.Tech Computer Science student building full-stack web projects and exploring practical AI." /></a>
 
-<br />
+<p align="center">
+  <a href="https://mahesh88971.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Portfolio website" /></a>
+  <a href="https://linkedin.com/in/mahesh-babu-sanka"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn profile" /></a>
+  <a href="https://github.com/Mahesh88971?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My%20repositories-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub repositories" /></a>
+</p>
 
-<div align="center">
-  <img src="assets/title-about.svg" alt="01 About — Curious mind, practical builder" width="100%" />
-  <img src="assets/about-intro.svg" alt="S Mahesh Babu is a B.Tech Computer Science student focused on full-stack development, practical AI, and building useful software." width="100%" />
-</div>
+<img src="assets/title-about-v2.svg" width="100%" alt="01 About — Hello, I'm Mahesh." />
+<img src="assets/about-mahesh.svg" width="100%" alt="Terminal-style introduction: S Mahesh Babu, a B.Tech Computer Science student focused on full-stack web development and practical AI integration." />
 
-<br />
+<img src="assets/title-recognition-v2.svg" width="100%" alt="02 Highlights — Learning by building." />
+<img src="assets/recognition-mahesh.svg" width="100%" alt="Highlights: studying Computer Science, exploring full-stack and AI, and making useful software projects." />
 
-<div align="center">
-  <img src="assets/title-focus.svg" alt="02 Focus — Learn, build, improve" width="100%" />
-  <img src="assets/focus-map.svg" alt="Current focus: build accessible web applications, explore responsible AI integration, and improve through hands-on projects." width="100%" />
-</div>
+<img src="assets/title-work-v2.svg" width="100%" alt="03 Selected work — Projects made to solve problems." />
 
-<br />
+<a href="https://github.com/Mahesh88971/clinic-queue-and-patient-flow-management"><img src="assets/project-clinic-reference.svg" width="100%" alt="Clinic Queue Manager: patient visit tokens and wait estimates, a staff queue view and sequential doctor workflow. Demo data is simulated and temporary." /></a>
+<p align="center"><a href="https://mahesh88971.github.io/clinic-queue-and-patient-flow-management/"><img src="https://img.shields.io/badge/Live%20demo-Clinic%20Queue-451126?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Open Clinic Queue live demo" /></a> <a href="https://github.com/Mahesh88971/clinic-queue-and-patient-flow-management"><img src="https://img.shields.io/badge/Repository-Clinic%20Queue-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="Clinic Queue repository" /></a></p>
 
-<div align="center">
-  <img src="assets/title-work.svg" alt="03 Selected work — Projects built to solve problems" width="100%" />
-</div>
+<a href="https://github.com/Mahesh88971/Portfolio"><img src="assets/project-portfolio-reference.svg" width="100%" alt="Developer portfolio: responsive React and Tailwind CSS site with an interactive project gallery and dynamic contact form." /></a>
+<p align="center"><a href="https://mahesh88971.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live%20site-Portfolio-451126?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Open portfolio website" /></a> <a href="https://github.com/Mahesh88971/Portfolio"><img src="https://img.shields.io/badge/Repository-Portfolio-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="Portfolio repository" /></a></p>
 
-<a href="https://github.com/Mahesh88971/clinic-queue-and-patient-flow-management"><img src="assets/project-clinic.svg" alt="Clinic Queue and Patient Flow Manager: a role-based web app with patient tokens, queue position and estimated wait times, staff monitoring, doctor workflow, and privacy-conscious session-only demo data." width="100%" /></a>
+<a href="https://github.com/Mahesh88971/MedGuard-AI"><img src="assets/project-medguard-reference.svg" width="100%" alt="MedGuard AI: educational prototype with synthetic data, role-aware dashboards and limited explainable checks. Not for medical decisions." /></a>
+<p align="center"><a href="https://github.com/Mahesh88971/MedGuard-AI"><img src="https://img.shields.io/badge/Repository-MedGuard%20AI-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="MedGuard AI repository" /></a></p>
 
-<a href="https://github.com/Mahesh88971/Portfolio"><img src="assets/project-portfolio.svg" alt="Developer portfolio: a responsive React and Tailwind CSS site featuring an interactive project gallery and contact form." width="100%" /></a>
+<a href="https://github.com/Mahesh88971/idea-connect"><img src="assets/project-ideaconnect-reference.svg" width="100%" alt="Idea Connect: a TypeScript project. Visit the repository for implementation details." /></a>
+<p align="center"><a href="https://github.com/Mahesh88971/idea-connect"><img src="https://img.shields.io/badge/Repository-Idea%20Connect-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="Idea Connect repository" /></a></p>
 
-<a href="https://github.com/Mahesh88971/MedGuard-AI"><img src="assets/project-medguard.svg" alt="MedGuard AI: an educational medication-safety workflow prototype with synthetic data, role-aware dashboards, and limited explainable checks; not for clinical use." width="100%" /></a>
+<img src="assets/title-toolkit-v2.svg" width="100%" alt="04 Toolkit — The tools I reach for." />
+<img src="assets/toolkit-mahesh.svg" width="100%" alt="Technologies used across public projects: JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Python, SQLite, Git and GitHub." />
 
-<a href="https://github.com/Mahesh88971/idea-connect"><img src="assets/project-ideaconnect.svg" alt="Idea Connect: a TypeScript project. Open the repository to explore its current implementation." width="100%" /></a>
+<img src="assets/title-commits-v2.svg" width="100%" alt="05 Commit log — A year of building." />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mahesh88971&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="100%" alt="GitHub stats for Mahesh88971" /></p>
+<img src="https://raw.githubusercontent.com/Mahesh88971/Mahesh88971/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake traversing Mahesh's real GitHub contribution graph, regenerated daily." />
 
-<div align="center">
-  <a href="https://mahesh88971.github.io/clinic-queue-and-patient-flow-management/"><img src="https://img.shields.io/badge/LIVE%20DEMO-Clinic%20Queue-12334a?style=for-the-badge&logo=githubpages&logoColor=5eead4" alt="Open Clinic Queue live demo" /></a>
-  <a href="https://mahesh88971.github.io/Portfolio/"><img src="https://img.shields.io/badge/LIVE%20SITE-Portfolio-25213f?style=for-the-badge&logo=vercel&logoColor=a78bfa" alt="Open portfolio website" /></a>
-</div>
+<img src="assets/title-certifications-v2.svg" width="100%" alt="06 Approach — How I like to work." />
+<img src="assets/approach-mahesh.svg" width="100%" alt="Work approach: understand the user problem, build clearly and usefully, then learn by shipping and iterating." />
 
-<br />
-
-<div align="center">
-  <img src="assets/title-toolkit.svg" alt="04 Toolkit — Technologies and tools" width="100%" />
-  <img src="assets/tech-constellation.svg" alt="Technology toolkit: JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Python, Java, Git, and GitHub." width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="assets/title-activity.svg" alt="05 Commit log — A little progress, every week" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh88971&show_icons=true&hide_border=true&border_radius=14&bg_color=0b1020&title_color=5eead4&icon_color=818cf8&text_color=e5e7eb&rank_icon=github&custom_title=GitHub%20at%20a%20glance" width="100%" alt="GitHub profile statistics for Mahesh88971" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh88971&layout=compact&hide_border=true&border_radius=14&bg_color=0b1020&title_color=5eead4&text_color=e5e7eb" width="100%" alt="Most-used programming languages" />
-  <br />
-  <img src="https://raw.githubusercontent.com/Mahesh88971/Mahesh88971/output/github-contribution-grid-snake.svg" alt="Animated snake tracing Mahesh88971's real GitHub contribution graph, refreshed daily" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="assets/title-connect.svg" alt="06 Connect — Let's build something useful" width="100%" />
-  <br />
-  <a href="https://linkedin.com/in/mahesh-babu-sanka"><img src="https://img.shields.io/badge/LINKEDIN-S%20Mahesh%20Babu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /></a>
-  <a href="https://github.com/Mahesh88971"><img src="https://img.shields.io/badge/GITHUB-Mahesh88971-171923?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" /></a>
-  <br /><br />
-  <a href="https://mahesh88971.github.io/Portfolio/"><img src="assets/footer-signature.svg" alt="Thanks for stopping by — curiosity to code to something useful." width="100%" /></a>
-</div>
+<img src="assets/title-connect-v2.svg" width="100%" alt="07 Connect — Let's build something useful." />
+<p align="center">
+  <a href="https://linkedin.com/in/mahesh-babu-sanka"><img src="https://img.shields.io/badge/LinkedIn-S%20Mahesh%20Babu-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Mahesh88971"><img src="https://img.shields.io/badge/GitHub-Mahesh88971-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="Visit my GitHub" /></a>
+  <a href="https://mahesh88971.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Visit my portfolio" /></a>
+</p>
+<a href="https://mahesh88971.github.io/Portfolio/"><img src="assets/footer-mahesh.svg" width="100%" alt="Mahesh — Building useful things. Learning with every release." /></a>
