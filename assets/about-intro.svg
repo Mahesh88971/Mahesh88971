@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="155" viewBox="0 0 1200 155" role="img" aria-labelledby="t d">
+  <title id="t">About S Mahesh Babu</title><desc id="d">B.Tech Computer Science student focused on full-stack web development and practical AI integration.</desc>
+  <rect x="1" y="1" width="1198" height="153" rx="14" fill="#0b1020" stroke="#25314b"/>
+  <text x="34" y="43" fill="#f8fafc" font-family="Arial,sans-serif" font-size="23" font-weight="700">Hi, I'm S Mahesh Babu.</text>
+  <text x="34" y="76" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16">A goal-driven B.Tech Computer Science student exploring full-stack web development</text>
+  <text x="34" y="102" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16">and practical AI integration. I like turning ideas into useful, polished experiences</text>
+  <text x="34" y="128" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16">and keep learning by building.</text>
+  <circle cx="1110" cy="76" r="37" fill="#111c34" stroke="#263b5c"/>
+  <text x="1110" y="84" fill="#5eead4" font-family="ui-monospace,monospace" font-size="21" font-weight="700" text-anchor="middle">MB</text>
+</svg>
