@@ -40,6 +40,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/mahesh-babu-sanka"><img src="https://img.shields.io/badge/LinkedIn-S%20Mahesh%20Babu-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/Mahesh88971"><img src="https://img.shields.io/badge/GitHub-Mahesh88971-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="Visit my GitHub" /></a>
-  <a href="https://mahesh88971.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Visit my portfolio" /></a>
+  <a href="https://sankamahesh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Visit my portfolio" /></a>
 </p>
 <a href="https://mahesh88971.github.io/Portfolio/"><img src="assets/footer-mahesh.svg" width="100%" alt="Mahesh — Building useful things. Learning with every release." /></a>
