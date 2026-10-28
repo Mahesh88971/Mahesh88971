@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="t d">
-  <title id="t">04 Commit log — Follow the build</title><desc id="d">Section header in a dark editorial style.</desc>
+  <title id="t">05 Commit log — A little progress, every week</title><desc id="d">Section header in a dark editorial style.</desc>
   <defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
   <rect x="1" y="1" width="1198" height="90" rx="14" fill="#0b1020" stroke="#25314b"/><rect x="24" y="22" width="4" height="48" rx="2" fill="url(#a)"/>
-  <text x="48" y="42" fill="#5eead4" font-family="ui-monospace,monospace" font-size="13" letter-spacing="3">04 / COMMIT LOG</text><text x="48" y="67" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="21" font-weight="700">Follow the build</text>
+  <text x="48" y="42" fill="#5eead4" font-family="ui-monospace,monospace" font-size="13" letter-spacing="3">05 / COMMIT LOG</text><text x="48" y="67" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="21" font-weight="700">A little progress, every week</text>
   <text x="1148" y="57" fill="#64748b" font-family="ui-monospace,monospace" font-size="13" text-anchor="end">ACTIVITY</text>
 </svg>
