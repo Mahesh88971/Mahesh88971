@@ -1,7 +1,7 @@
 <a href="https://mahesh88971.github.io/Portfolio/"><img src="assets/hero-mahesh.svg" width="100%" alt="S Mahesh Babu — B.Tech Computer Science student building full-stack web projects and exploring practical AI." /></a>
 
 <p align="center">
-  <a href="https://mahesh88971.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Portfolio website" /></a>
+  <a href="https://maheshbabusanka.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Portfolio website" /></a>
   <a href="https://linkedin.com/in/mahesh-babu-sanka"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn profile" /></a>
   <a href="https://github.com/Mahesh88971?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My%20repositories-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub repositories" /></a>
 </p>
